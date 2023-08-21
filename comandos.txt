@@ -1,0 +1,2 @@
+Comandos utilizados en el checkpoint:
+bd26b1d commit 01 de OmarCano
